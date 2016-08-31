@@ -1,6 +1,9 @@
 h1 {
   font-size: 80px;
 }
+.about-text {
+   max-width: 40em;
+}
 
 .photo {
   height: 300px;
