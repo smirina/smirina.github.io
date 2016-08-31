@@ -1,0 +1,15 @@
+.photo {
+  height: 300px;
+  margin: 40px 0;
+}
+.container {
+  margin: 40px;
+  font-family: "PT Serif", serif;
+  font-size: 20px;
+}
+.about {
+  display: inline-block;
+}
+.contact {
+  display: block;
+}
