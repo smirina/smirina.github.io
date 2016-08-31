@@ -1,15 +1,24 @@
 .photo {
   height: 300px;
   margin: 40px 0;
+  /*border-radius: 50%;*/
 }
 .container {
-  margin: 40px;
+  width: 80%;
+  margin: 40px auto;
   font-family: "PT Serif", serif;
   font-size: 20px;
 }
 .about {
-  display: inline-block;
+  display: block;
+  border-left: 4px solid grey;
+  border-radius: 2px;
+  padding-left: 20px;
+  margin-top: 40px;
 }
 .contact {
   display: block;
+  text-decoration: none;
+  color: grey;
+  margin: 5px 0;
 }
