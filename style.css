@@ -1,24 +1,25 @@
+h1 {
+  font-size: 80px;
+}
+
 .photo {
   height: 300px;
-  margin: 40px 0;
   /*border-radius: 50%;*/
 }
 .container {
   width: 80%;
   margin: 40px auto;
-  font-family: "PT Serif", serif;
+  font-family: Georgia, serif;
   font-size: 20px;
+  line-height: 1.618;
 }
 .about {
   display: block;
-  border-left: 4px solid grey;
-  border-radius: 2px;
-  padding-left: 20px;
   margin-top: 40px;
 }
 .contact {
-  display: block;
+  display: inline-block;
   text-decoration: none;
   color: grey;
-  margin: 5px 0;
+  margin: 10px 50px 10px 0;
 }
