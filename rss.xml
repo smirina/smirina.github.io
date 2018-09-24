@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ирина Смышляева]]></title><description><![CDATA[Пишу код, перевожу, путешествую]]></description><link>https://smirina.github.io</link><image><url>https://smirina.github.io/logos/logo-512.png</url><title>Ирина Смышляева</title><link>https://smirina.github.io</link></image><generator>GatsbyJS Casper Starter</generator><lastBuildDate>Mon, 24 Sep 2018 17:49:57 GMT</lastBuildDate><atom:link href="https://smirina.github.io/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Irina Smyshliaeva]]></author><copyright><![CDATA[IS © 2018]]></copyright><item><title><![CDATA[Программист на скале]]></title><description><![CDATA[Этот пост - перевод статьи Breck Yunit  What can a Programmer learn from Rock Climbing? Чему программиста учит скалолазание? Рейли-бич - это…]]></description><link>https://smirina.github.io/программист-на-скале</link><guid isPermaLink="false">https://smirina.github.io/программист-на-скале</guid><category><![CDATA[translation]]></category><category><![CDATA[programming]]></category><category><![CDATA[climbing]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Irina Smyshliaeva]]></dc:creator><pubDate>Sat, 07 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Этот пост - перевод статьи Breck Yunit &lt;a href=&quot;http://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html&quot;&gt;What can a Programmer learn from Rock Climbing?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Чему-программиста-учит-скалолазание&quot;&gt;&lt;a href=&quot;#%D0%A7%D0%B5%D0%BC%D1%83-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%83%D1%87%D0%B8%D1%82-%D1%81%D0%BA%D0%B0%D0%BB%D0%BE%D0%BB%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Чему программиста учит скалолазание?&lt;/h2&gt;
+&lt;p&gt;Рейли-бич - это крошечный пляж на юге Тайланда, известный среди скалолазов. Я пробыл там две недели.
+Когда позволяла погода, я занимался скалолазанием. Когда не позволяла - программированием. И я буквально обнаружил себя совмещающим и то, и другое. Точнее, я размышлял над тем, что я могу извлечь из этого скалолазного опыта и применить к развитию себя как программиста.&lt;/p&gt;
+&lt;p&gt;Вот к чему я пришел.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Нужно постоянно себя заставлять.&lt;/strong&gt; Каждый раз, залезая на скалу, я делал это чуть-чуть лучше, чем в предыдущий. Ленивая часть меня хотела провести хоть один день радуясь тому, что я уже умею, и не пытаясь прыгнуть выше головы. К счастью, у меня был прекрасный напарник, который пресекал это, и каждый день толкал меня к новой цели. И в программировании, и в скалолазании нужно каждый день стремиться к лучшему уровню. Это непросто, и есть риск упасть, забираясь на новую высоту, но это необходимо, если вы хотите стать профессионалом. В программировании, точно так же, как и в скалолазании, нужно стремиться к обществу тех, кто уже залез на следующий уровень. Так становишься лучше. Конечно, не стоит забывать и просто радоваться моменту.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;** &lt;em&gt;Действительно&lt;/em&gt; заставлять себя.** В скалолазании бывают моменты, когда ты напуган &lt;em&gt;- нет, когда ты в диком ужасе -&lt;/em&gt;, что ты сейчас упадешь и покалечишься, или умрешь, и ты цепляешься за скалу, покрываясь потом, и нужно преодолеть это. В программировании нужно &lt;em&gt;специально выискивать такие моменты&lt;/em&gt;. Конечно, такого экстрима никогда не будет, но нужно выискивать проблемы, с которыми страшно столкнуться, и сражаться с ними. Это может быть проект, объем которого выходит за рамки того, что ты делал раньше, или задача, требующая знвний высшей математики, или язык, который пугает до жути. Моим инструктором был таец по имени Ну. Он второй по лазанию на скорость в Тайланде, и занимается этим уже 15 лет. Однажды я прогуливался возле скал и увидел, как Ну стучал себя по груди и кричал во весь голос. Я спросил у наблюдателя, что происходит, и он ответил, что Ну пытается вылезти сложный маршрут и сам себя заставляет сделать это. Вот почему он прекрасный скалолаз. Потому что он на скалах уже 15 лет и все еще продолжает искать маршруты, которые его пугают.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Всегда есть следующий уровень.&lt;/strong&gt; В скалолазании есть конкретные уровни сложности, через которые вы проходите, например совершенствуясь от сложности трассы 5 до 8+, или от движения с верхней страховкой до прокладывания маршрута. В программировании уровни менее определенные и охватывают более широкий диапазон, но они точно существуют. Ты идешь от &quot;hello world&quot; к написанию компилятора, или от использования Блокнота к vim, textmate и мощным IDE. Можно в начале написать генератор плейлистов, а через десять лет - программу, которая сама генерирует настоящие симфонии, и все равно останутся уровни выше, куда можно забраться.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Программирование или лазание без учителей неэффективно.&lt;/strong&gt; Есть много книг про скалолазание, но они не заменят хорошего учителя. Вы можете повторять то, что видете в книгах, и даже делать это правильно, но учитель сможет сказать, что вы делаете &lt;em&gt;неправильно&lt;/em&gt;. Самому трудно понять, какие концепции или техники ключевые и сосредоточиться именно на них. Так можно не обратить внимание на что-то действительно важное, например на использовании преимущественно ног в скалолазании, или принципе DRY в программировании. Хороший наставник может сразу увидеть ошибки и дать нужную обратную связь. Стоит всегда искать хороших учителей и наставников, будь они друзьями, коллегами или профессиональными педагогами.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Мы учимся делая: главное - практика.&lt;/strong&gt; Хотя нам нужны учителя и книги, чтобы узнать, что делать, единственный способ научиться - сделать самому, и снова, и снова. Требуется куча времени, чтобы достигнуть хорошего уровня в скалолазании или программировании, но хотя получение инструкций играет важную роль, подавляющая часть времени обучения будет потрачена на практику.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Важна не только глубина, но и ширина.&lt;/strong&gt; Иногда, чтобы достичь следующего уровня в скалолазнии, нужно выйти за пределы скалолазания. Возможно, потребуется заняться йогой для нужной гибкости, или силовыми тренировками. Так же и в программировании - иногда нужно отойти в сторону, чтобы подняться. Если ты хочешь писать на Rails, придется отвлечся на работу с командной строкой или контролем версий. В программировании огромное количество областей. Чтобы углубиться в одну, нужно иметь компетенцию во многих.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Люди раздвигают границы.&lt;/strong&gt; Скалолазание и программирование постоянно исследуются людьми, и люди раздвигают их границы. Продвинутые скалолазы постоянно открывают новые районы, прокладывают новые маршруты, изобретают новое снаряжение, совершенствуют техники и передают новые знания. Программирование является самым кумулятивным из всех человеческих начинаний. Оно основывается на работе десятков миллионов людей, и новые &quot;экстремалы&quot; постоянно раздвигают границы (сегодня в таких областях как распределенные вычисления, датамайнинг, машинное обучение и прочих).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Любить совместную работу.&lt;/strong&gt; Культура скалолазания очень коллективная, как и культура опенсорса. Скалолазание - это по существу деятельность с открытым исходным источником. Все, что делает и использует скалолаз видно в открытую. Это приводит к быстрой передаче знаний и большей безопасности. Так же и програмное обеспечение с открытым исходным кодом приводит к лучшему результату для всех.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Гордиться своей работой.&lt;/strong&gt; В скалолазании имя того, кто первым восходит по маршруту, становится навсегда связанным с этим маршрутом. В программировании нужно гордиться своей работой и добавлять к ней свое имя. Мне бывает неловко смотреть на свой старый код и понимать, как он плох. Но я отгоняю это ощущение, потому что хоть код и не соответствовует стандартам сегодняшнего меня, он отражает мою честную попытку сделать лучшее, что я мог на тот момент, и здесь нечего стыдиться. Я уверен, что величайшие скалолазы мира в свое время боролись с самыми простыми трассами.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Природные данные имеют значение.&lt;/strong&gt; Некоторые люди, тренировавшиеся 5000 будут показывать результаты хуже, чем те, кто практиковались всего 2000 часов, из-за генетики и других факторов. Было бы прекрасно, если бы наш успех в чем-то определялся только тем, сколько времени мы в это вложили. Но это не так. Тем не менее, самые лучшие скалолазы проводят огромное количество времени тренируясь. Для большинства же разница заключается только в удаче. Я работал со многими програмистами за мою (пока не очень долгую) карьеру. Я работал с невероятно умными и со средними. Кто-то тяжело работал, а кому-то было все равно. Лучше всего, конечно, обладать и интелеектом, и самодисциплиной. И, вероятно, я предпочел бы работать со средним, но вовлеченным специалистом, чем с блестящим, но ленивым.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Примечание.&lt;/strong&gt;
+Скалолазание и программирование отлично дополняют друг друга, потому что скалолазание помогает отлично размять постоянно печатающие руки.&lt;/p&gt;
+&lt;p&gt;Я ужасный скалолаз и рядовой программист. Принимайте мои советы с долей скепсиса.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Как писать сообщения коммитов]]></title><description><![CDATA[Этот пост - перевод статьи Криса Бимса  How to Write a Git Commit Message Вступление: почему важны сообщения коммитов. Если посмотреть лог…]]></description><link>https://smirina.github.io/как-писать-сообщения-коммитов</link><guid isPermaLink="false">https://smirina.github.io/как-писать-сообщения-коммитов</guid><category><![CDATA[translation]]></category><category><![CDATA[programming]]></category><dc:creator><![CDATA[Irina Smyshliaeva]]></dc:creator><pubDate>Sun, 04 Dec 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Этот пост - перевод статьи Криса Бимса &lt;a href=&quot;https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams&quot;&gt;How to Write a Git Commit Message&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Вступление-почему-важны-сообщения-коммитов&quot;&gt;&lt;a href=&quot;#%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Вступление: почему важны сообщения коммитов.&lt;/h2&gt;
+&lt;p&gt;Если посмотреть лог любого случайного репозитория, то в описании коммитов будет, в той или иной степени, беспорядок. Например, эти &lt;a href=&quot;https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams&quot;&gt;шедевральные сообщения&lt;/a&gt; я оставил когда начал контрибьютить в Spring.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git log --oneline -5 --author cbeams --before &quot;Fri Mar 26 2009&quot;
+
+e5f4b49 Re-adding ConfigurationPostProcessorTests after its brief removal in r814. @Ignore-ing the testCglibClassesAreLoadedJustInTimeForEnhancement() method as it turns out this was one of the culprits in the recent build breakage. The classloader hacking causes subtle downstream effects, breaking unrelated tests. The test method is still useful, but should only be run on a manual basis to ensure CGLIB is not prematurely classloaded, and should not be run as part of the automated build.
+2db0f12 fixed two build-breaking issues: + reverted ClassMetadataReadingVisitor to revision 794 + eliminated ConfigurationPostProcessorTests until further investigation determines why it causes downstream tests to fail (such as the seemingly unrelated ClassPathXmlApplicationContextTests)
+147709f Tweaks to package-info.java files
+22b25e0 Consolidated Util and MutableAnnotationUtils classes into existing AsmUtils
+7f96f57 polishing&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Упс. И сравните это с &lt;a href=&quot;https://github.com/spring-projects/spring-framework/commits/5ba3db?author=philwebb&quot;&gt;более поздними&lt;/a&gt; коммитами из того же репозитория:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git log --oneline -5 --author pwebb --before &quot;Sat Aug 30 2014&quot;
+
+5ba3db6 Fix failing CompositePropertySourceTests
+84564a0 Rework @PropertySource early parsing logic
+e142fd1 Add tests for ImportSelector meta-data
+887815f Update docbook dependency and generate epub
+ac8326d Polish mockito usage&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Какие лучше читаются?&lt;/p&gt;
+&lt;p&gt;Первые совсем разные по длине и содержанию, последние - краткие и последовательные. Первые мы пишем не задумываясь, последние написаны целенаправленно.&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что большинство репозиториев подтверждают это правило, есть и исключения. &lt;a href=&quot;https://github.com/torvalds/linux/commits/master&quot;&gt;Ядро Linux&lt;/a&gt; и &lt;a href=&quot;https://github.com/git/git/commits/master&quot;&gt;сам Git&lt;/a&gt; отличные тому примеры. Еще &lt;a href=&quot;https://github.com/spring-projects/spring-boot/commits/master&quot;&gt;Spring Boot&lt;/a&gt; или любой репозиторий, которым управлят &lt;a href=&quot;https://github.com/tpope/vim-pathogen/commits/master&quot;&gt;Тим Поп&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Контрибьюторы этих репозиториев понимают, что хорошо продуманные сообщения коммитов - лучший способ донести контекст изменений до других разработчиков (и будущего себя). С помощью диффа можно выяснить &lt;em&gt;что&lt;/em&gt; изменилось, но только сообщение коммита может внятно объяснить &lt;em&gt;почему&lt;/em&gt;. Питер Хаттерер &lt;a href=&quot;http://who-t.blogspot.ru/2009/12/on-commit-messages.html&quot;&gt;рассуждает так&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Описывать заново контекст фрагмента кода - это расточительно. Мы не можем полностью избежать этого, поэтому наши усилия направлены на то, чтобы &lt;a href=&quot;http://www.osnews.com/story/19266/WTFs_m&quot;&gt;сократить это&lt;/a&gt; настолько, насколько это возможно. Сообщения коммитов снижают необходимость переустановления контекста и, в конечном итоге, показывают, &lt;em&gt;насколько хорошо разработчик умеет работать в команде&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Если вы еще не задумывались о том, каким должно быть хорошее сообщение комммита - то это, вероятно, потому, что не тратили время на &lt;code&gt;git log&lt;/code&gt; и похожие инструменты. Это замкнутый круг: история коммитов неструктурирована и непоследовательна, поэтому никто не тратит много времени на работу с ней. А потому, что никто о ней не заботится, она остается неструктурированной и непоследовательной.&lt;/p&gt;
+&lt;p&gt;Но если она ведется тщательно и аккуратно - это прекрасная и крайне полезная вещь. Настает время &lt;code&gt;git blame&lt;/code&gt;, &lt;code&gt;revert&lt;/code&gt;, &lt;code&gt;rebase&lt;/code&gt;, &lt;code&gt;log&lt;/code&gt;, &lt;code&gt;shortlog&lt;/code&gt; и других подкоманд. Внезапно оказывается, что анализ чужих коммитов и пуллреквестов - это стоящая вещь, а причину изменений месячной (или годовой) давности понять не просто возможно, но и имеет практическое значение.&lt;/p&gt;
+&lt;p&gt;Долгосрочный успех проекта зависит, помимо всего прочего, от того, насколько удобно этот проект поддерживать. А у мейнтейнера едва ли есть инструменты мощнее, чем лог проекта. Стоит потратить время, чтобы разобраться, как за ним ухаживать. Поначалу это может вызвать затруднения, но вскоре станет привычкой, а в конечном итоге - источником продуктивности и поводом для гордости всех участников проекта.&lt;/p&gt;
+&lt;p&gt;В этой статье я обращаюсь только к самому базовому элементу поддержания порядка в истории коммитов: как писать индивидуальные сообщения коммитов. Есть и другие важные практики, такие как commit squashing - “склеивание” коммитов, про которые я сейчас не говорю. Возможно, сделаю это в будущих статьях.&lt;/p&gt;
+&lt;p&gt;В большинстве языков программирования есть устоявшиеся соглашения относительно идиоматического стиля, то есть именования, форматирования и тому подобного. Конечно, есть вариации, но большинство разработчиков согласны с тем, что лучше придерживаться одного стандарта.&lt;/p&gt;
+&lt;p&gt;Чтобы создать полезную историю изменений, подход команды к сообщениям коммитов не должен отличаться - стоит согласовать, как минимум, три вещей:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Стиль.&lt;/strong&gt; Синтаксис разметки, отступы, грамматика, прописные буквы, пунктуация. Пропишите все это, даже то, что кажется очевидным (вам), и сделайте максимально простым. Тогда у вас будет согласованный лог, который &lt;em&gt;действительно читают&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Контент.&lt;/strong&gt; Какая информация должна быть в теле коммита (если оно есть)? А какая не должна?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Метаданные.&lt;/strong&gt; Как следует ссылаться на ишьи, пуллреквесты и тому подобное?&lt;/p&gt;
+&lt;p&gt;К счастью, существуют устоявшиеся соглашения относительно того, что делает сообщение коммита хорошим. Некоторые подкомманды гита предполагают, что ты следуешь части этих правил. Не нужно изобретать велосипед. Просто следуйте этим семи правилам и станьте ближе к тому, чтобы коммитить как профессионал.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Не забывайте,
+&lt;a href=&quot;http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html&quot;&gt;все&lt;/a&gt;
+&lt;a href=&quot;https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines&quot;&gt;это&lt;/a&gt;
+&lt;a href=&quot;https://github.com/torvalds/subsurface/blob/master/README#L82-109&quot;&gt;уже&lt;/a&gt;
+&lt;a href=&quot;http://who-t.blogspot.ru/2009/12/on-commit-messages.html&quot;&gt;было&lt;/a&gt;
+&lt;a href=&quot;https://github.com/erlang/otp/wiki/writing-good-commit-messages&quot;&gt;сказано&lt;/a&gt;
+&lt;a href=&quot;https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages&quot;&gt;раньше&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Отделяйте заголовок от содержимого коммита пустой строкой&lt;/li&gt;
+&lt;li&gt;Уложите заголовок в 50 символов&lt;/li&gt;
+&lt;li&gt;Пишите заголовок с заглавной буквы&lt;/li&gt;
+&lt;li&gt;Не ставьте точку в конце заголовка&lt;/li&gt;
+&lt;li&gt;Используйте повелительное наклонение в заголовке&lt;/li&gt;
+&lt;li&gt;Ограничьте длину строк в сообщении 72 символами&lt;/li&gt;
+&lt;li&gt;В сообщении пишите что и почему сделано, а не как&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Например:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Обобщите изменения используя меньше 50 символов.
+
+Более подробные объяснения, если они нужны. Длина строки - примерно 72
+символа. В некоторых случаях первая строчка рассматривается как заголовок
+коммита, а все остальное - как тело. Эта пустая строка имеет решающее
+значение - иначе, если вы напишете их слитно, такие инструменты как log,
+shortlog и rebase могут сработать неправильно.
+
+Объясните проблему, которую решает коммит. Сфокусируйтесь на том, почему
+ вы сделали изменения, а не на том, как (это видно из кода). Может есть
+ побочные эффекты или последствия, которые не видно сразу? Здесь самое
+ место рассказать о них.
+
+Следующий параграф идет после пустой строки.
+
+ - Можно добавить список
+
+ - Обычно элемент списка обозначают дефисом или звездочкой после
+ пробела в начале строки, отделяя элементы друг от друга пустой
+ строкой, но возможны варианты.  
+
+Если вы используете систему отслеживания задач, поставьте ссылки на нее:
+
+Resolves: #123
+See also: #456, #789&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h3 id=&quot;1-Разделяйте-заголовок-и-содержимое-коммита-пустой-строкой&quot;&gt;&lt;a href=&quot;#1-%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8F%D0%B9%D1%82%D0%B5-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA-%D0%B8-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%B0-%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%BE%D0%B9&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Разделяйте заголовок и содержимое коммита пустой строкой&lt;/h3&gt;
+&lt;p&gt;Из документации &lt;a href=&quot;https://www.kernel.org/pub/software/scm/git/docs/git-commit.html#_discussion&quot;&gt;git commit&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Хотя это и не обязательно, неплохо начинать сообщения коммита с одной короткой (до 50 символов) строки со сжатым изложением изменений, после нее оставлять пустую строку и потом писать более подробное описание. Текст до первой пустой строки рассматривается в качестве заголовка и используется по всему гиту. Например, git-format-patch(1) превращает коммит в письмо и указывает заголовок как тему.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Для начала, не каждому коммиту нужны и заголовок, и описание. Иногда одной строки достаточно, особенно если коммит так прост, что пояснение не требуется. Например:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Fix typo in introduction to user guide&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;И ничего больше не нужно. Если кому-то станет интересно, какая именно была опечатка, он сам посмотрит изменения, например, при помощи &lt;code&gt;git show&lt;/code&gt;, &lt;code&gt;git diff&lt;/code&gt; или &lt;code&gt;git log -p&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Если вы коммитите что-то вроде этого в командной строке, коммит легко сделать с флагом &lt;code&gt;-m&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git commit -m&quot;Fix typo in introduction to user guide&quot;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Однако, когда нужны пояснения, стоит написать тело сообщения коммита. Например:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Derezz the master control program
+
+MCP turned out to be evil and had become intent on world domination.
+This commit throws Tron&apos;s disc into MCP (causing its deresolution)
+and turns it back into a chess game.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Это уже не так-то просто закоммитить с помощью &lt;code&gt;-m&lt;/code&gt; - тут понадобится подходящий редактор. Если у вас еще нет редактора, настроенного для работы с гитом из консоли, то стоит прочитать &lt;a href=&quot;https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration&quot;&gt;вот эту часть&lt;/a&gt; из Pro Git
+В любом случае, отделение заголовка окупается при просмотре полного лога. Он выглядит так:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git log
+commit 42e769bdf4894310333942ffc5a15151222a87be
+Author: Kevin Flynn &lt;kevin@flynnsarcade.com&gt;
+Date:   Fri Jan 01 00:00:00 1982 -0200
+
+ Derezz the master control program
+
+ MCP turned out to be evil and had become intent on world domination.
+ This commit throws Tron&apos;s disc into MCP (causing its deresolution)
+ and turns it back into a chess game.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;А теперь &lt;code&gt;git log --oneline&lt;/code&gt;, который выводит только заголовок:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git log --oneline
+42e769 Derezz the master control program&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Или &lt;code&gt;git shortlog&lt;/code&gt;, который группирует коммиты по авторам и для краткости показывает тоже только заголовок:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ git shortlog
+Kevin Flynn (1):
+      Derezz the master control program
+
+Alan Bradley (1):
+      Introduce security program &quot;Tron&quot;
+
+Ed Dillinger (3):
+      Rename chess program to &quot;MCP&quot;
+      Modify chess program
+      Upgrade chess program
+
+Walter Gibbs (1):
+      Introduce prototype chess program&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Есть много других случаев в гите, когда используется разделение на заголовок и тело, но ни один из них не работает нормально без этой пустой строки.&lt;/p&gt;
+&lt;h3 id=&quot;2-Уложите-заголовок-в-50-символов&quot;&gt;&lt;a href=&quot;#2-%D0%A3%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA-%D0%B2-50-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Уложите заголовок в 50 символов&lt;/h3&gt;
+&lt;p&gt;50 символов - это не жесткое ограничение, просто практическая рекомендация. С одной стороны, такая длина делает заголовки читаемыми, с другой - заставляет задуматься, как максимально четко объяснить коммит.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Совет: Если вам с трудом удается кратко сформулировать изменения, возможно, для одного коммита их было слишком много. Стремитесь к &lt;a href=&quot;https://www.freshconsulting.com/atomic-commits/&quot;&gt;атомарным&lt;/a&gt; коммитам (а это тема для отдельного поста).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;UI гитхаба в курсе этого правила и предупреждает вас, если вы превышаете лимит.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/zyBU2l6.png&quot; alt=&quot;screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;И переносит текст дальше 69 символов за многоточие.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/27n9O8y.png&quot; alt=&quot;screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Так что ориентируйтесь на 50 символов, но не выходите за 69&lt;/p&gt;
+&lt;h3 id=&quot;3-Пишите-заголовок-с-заглавной-буквы&quot;&gt;&lt;a href=&quot;#3-%D0%9F%D0%B8%D1%88%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA-%D1%81-%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9-%D0%B1%D1%83%D0%BA%D0%B2%D1%8B&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Пишите заголовок с заглавной буквы&lt;/h3&gt;
+&lt;p&gt;Здесь ничего сложного. Начинайте заголовок с прописной (заглавной, большой) буквы.&lt;/p&gt;
+&lt;p&gt;Например:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;- Accelerate to 88 miles per hour&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;А не&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- accelerate to 88 miles per hour&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4-Не-ставьте-точку-в-конце-заголовка&quot;&gt;&lt;a href=&quot;#4-%D0%9D%D0%B5-%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5-%D1%82%D0%BE%D1%87%D0%BA%D1%83-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Не ставьте точку в конце заголовка&lt;/h3&gt;
+&lt;p&gt;Завершающие знаки препинания не важны в заголовке, а вот место имеет значение, когда вы пытаетесь уложиться в 50 символов.&lt;/p&gt;
+&lt;p&gt;Например&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;- Open the pod bay doors&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Вместо&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- Open the pod bay doors.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;5-Используйте-повелительное-наклонение&quot;&gt;&lt;a href=&quot;#5-%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-%D0%BF%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Используйте повелительное наклонение&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Повелительное наклонение&lt;/em&gt; - это когда “говорящий или пишущий дает команду или инструкцию”.&lt;/p&gt;
+&lt;p&gt;Например&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Уберись в комнате  &lt;/li&gt;
+&lt;li&gt;Закройте дверь  &lt;/li&gt;
+&lt;li&gt;Вынеси мусор  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Все семь правил, которые вы сейчас читаете, написаны в повелительном наклонении (“Используйте повелительное наклонение”, и т.п.).&lt;/p&gt;
+&lt;p&gt;Это может звучать немного грубо, поэтому обычно мы так не говорим. Но это именно то, что нужно для заголовка коммита. Одна из причин - &lt;strong&gt;гит сам использует повелительное наклонение, когда создает коммит от вашего имени&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Например, по умолчанию при &lt;code&gt;git merge&lt;/code&gt; сообщение выглядит так&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Merge branch &apos;myfeature&apos;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;а при &lt;code&gt;git revert&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Revert &quot;Add the thing with the stuff&quot;
+This reverts commit cc87791524aedd593cff5a74532befe7ab69ce9d.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;или при клике на кнопку “Merge” в пуллреквесте гитхаба&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Merge pull request #123 from someuser/somebranch&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Так что когда вы пишите сообщение коммита в повелительном наклонении, вы следуете внутреннему соглашению гита:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;- Refactor subsystem X for readability&lt;/span&gt;
+&lt;span style=&quot;color:green&quot;&gt;- Update getting started documentation&lt;/span&gt;
+&lt;span style=&quot;color:green&quot;&gt;- Remove deprecated methods&lt;/span&gt;
+&lt;span style=&quot;color:green&quot;&gt;- Release version 1.0.0&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сначала писать так может быть неловко. Обычно мы используем &lt;em&gt;изъявительное&lt;/em&gt; наклонение (оно сообщает о фактах) и поэтому сообщения к коммитам выглядят так:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- Fixed bug with Y&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- Changing behavior of X&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Иногда описывается их содержимое&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- More fixes for broken stuff&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt;- Sweet new API methods&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Чтобы избежать недоразумений, есть простое правило:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Правильно сформулированным заголовком коммита всегда можно продолжить фразу:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If applied, this commit will (и здесь заголовок коммита)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Например&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If applied, this commit will &lt;span style=&quot;color:green&quot;&gt;refactor subsystem X for readability&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;If applied, this commit will &lt;span style=&quot;color:green&quot;&gt;update getting started documentation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;If applied, this commit will &lt;span style=&quot;color:green&quot;&gt;remove deprecated methods&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;If applied, this commit will &lt;span style=&quot;color:green&quot;&gt;release version 1.0.0&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;If applied, this commit will &lt;span style=&quot;color:green&quot;&gt;merge pull request #123 from user/branch&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А с другим наклонением уже не работает:&lt;/p&gt;
+&lt;p&gt;If applied, this commit will fixed bug with Y
+If applied, this commit will changing behavior of X
+If applied, this commit will more fixes for broken stuff
+If applied, this commit will sweet new API methods&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;На заметку: повелительное наклонения важно только в заголовке. В теле пишите так, как удобнее&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;6-Ограничьте-длину-строки-сообщения-72-символами&quot;&gt;&lt;a href=&quot;#6-%D0%9E%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D1%8C%D1%82%D0%B5-%D0%B4%D0%BB%D0%B8%D0%BD%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-72-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0%D0%BC%D0%B8&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. Ограничьте длину строки сообщения 72 символами&lt;/h3&gt;
+&lt;p&gt;Git никак не форматирует сообщения автоматически, поэтому не забывайте про правый край и переносите строки вручную. Совет - остановиться на 72 символах, чтобы оставить гиту достаточно места для индентации и не превысить, в конечном счете, 80 знаков.&lt;/p&gt;
+&lt;p&gt;Тут поможет хороший текстовый редактор. Легко настроить, например, Vim, который будет ограничивать длину строки сообщения. А IDE традицинно плохо справляются с автоматическим форматированием текста (хотя в IntelliJ IDEA в последних версиях, наконец, &lt;a href=&quot;https://youtrack.jetbrains.com/issue/IDEA-53615&quot;&gt;стало&lt;/a&gt; &lt;a href=&quot;https://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-448299&quot;&gt;получше&lt;/a&gt; &lt;a href=&quot;https://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-446912&quot;&gt;с этим&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&quot;7-В-сообщении-пишите-что-и-почему-сделано-а-не-как&quot;&gt;&lt;a href=&quot;#7-%D0%92-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%B8%D1%88%D0%B8%D1%82%D0%B5-%D1%87%D1%82%D0%BE-%D0%B8-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE-%D0%B0-%D0%BD%D0%B5-%D0%BA%D0%B0%D0%BA&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;7. В сообщении пишите что и почему сделано, а не как&lt;/h3&gt;
+&lt;p&gt;Этот &lt;a href=&quot;https://github.com/bitcoin/bitcoin/commit/eb0b56b19017ab5c16c745e6da39c53126924ed6&quot;&gt;коммит из Bitcoin Core&lt;/a&gt; отличный пример объяснения, что и почему изменилось.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;commit eb0b56b19017ab5c16c745e6da39c53126924ed6
+Author: Pieter Wuille &lt;pieter.wuille@gmail.com&gt;
+Date:   Fri Aug 1 22:57:55 2014 +0200
+
+   Simplify serialize.h&apos;s exception handling
+
+   Remove the &apos;state&apos; and &apos;exceptmask&apos; from serialize.h&apos;s stream
+   implementations, as well as related methods.
+
+   As exceptmask always included &apos;failbit&apos;, and setstate was always
+   called with bits = failbit, all it did was immediately raise an
+   exception. Get rid of those variables, and replace the setstate
+   with direct exception throwing (which also removes some dead
+   code).
+
+   As a result, good() is never reached after a failure (there are
+   only 2 calls, one of which is in tests), and can just be replaced
+   by !eof().
+
+   fail(), clear(n) and exceptions() are just never called. Delete
+   them.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Посмотрите &lt;a href=&quot;https://github.com/bitcoin/bitcoin/commit/eb0b56b19017ab5c16c745e6da39c53126924ed6&quot;&gt;дифф целиком&lt;/a&gt; и только подумайте, сколько времени автор сэкономил текущим и будущим разработчикам, потратив время, чтобы объяснить контекст здесь и сейчас. Не сделай он этого, мы могли бы этого никогда и не понять.&lt;/p&gt;
+&lt;p&gt;В большинстве случаев вы можете объяснить, почему было сделано изменение. Код требует пояснений (а сложный код - комментариев внутри). Сфокусируйтесь на том, почему вы сделали эти изменения, в первую очередь - как все работало до изменений (и что с этим было не так), как работает сейчас и почему вы решили исправить это именно так.&lt;/p&gt;
+&lt;p&gt;Возможно, будущим мейнтейнером, благодарным за это, станете вы сами!&lt;/p&gt;
+&lt;h2 id=&quot;Советы&quot;&gt;&lt;a href=&quot;#%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%8B&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Советы&lt;/h2&gt;
+&lt;h3 id=&quot;Полюбите-командную-строку-Расстаньтесь-с-ide&quot;&gt;&lt;a href=&quot;#%D0%9F%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%83%D1%8E-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D1%83-%D0%A0%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%BD%D1%8C%D1%82%D0%B5%D1%81%D1%8C-%D1%81-ide&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Полюбите командную строку. Расстаньтесь с IDE.&lt;/h3&gt;
+&lt;p&gt;По многим причинам, среди которых подкоманды гита, подружиться с командной строкой - мудрое решение. Git безумно мощный, IDE - тоже, но каждый по своему. Я использую одну IDE каждый день (IntelliJ IDEA) и использовал другие (Eclipse), но я никогда не видел такой интеграции IDE и гита, которая по простоте и мощности приблизилась бы к командной строке (как только вы с ней подружитесь).&lt;/p&gt;
+&lt;p&gt;Некоторые связанные с гитом возможности IDE бесценны, вроде вызова &lt;code&gt;git rm&lt;/code&gt; при удалении файла или правильной работы с гитом при переименовании. Но все разваливается, когда вы начинаете коммитить, мержить, ребейзить или делать сложный анализ истории изменений через IDE.&lt;/p&gt;
+&lt;p&gt;Когда дело доходит до полноценного использования всех возможностей гита - нужна командная строка.&lt;/p&gt;
+&lt;p&gt;Помните, что если вы используете bash или zsh, то существуют &lt;a href=&quot;https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks&quot;&gt;скрипты автодополнения&lt;/a&gt;, благодаря которым не надо запоминать все подкомманды и флаги.&lt;/p&gt;
+&lt;h3 id=&quot;Прочитайте-pro-git&quot;&gt;&lt;a href=&quot;#%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%B9%D1%82%D0%B5-pro-git&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Прочитайте Pro Git&lt;/h3&gt;
+&lt;p&gt;Книгу &lt;a href=&quot;https://git-scm.com/book/ru/v2&quot;&gt;Pro Git&lt;/a&gt; можно бесплатно прочитать онлайн. Воспользуйтесь этим!&lt;/p&gt;</content:encoded></item></channel></rss>
